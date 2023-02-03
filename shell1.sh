@@ -1,5 +1,4 @@
-************************************************************************************
-Script Description : Shell script to find first 10 biggest file in filesystem and redirect them to a file.
+************************************************************************************ : Shell script to find first 10 biggest file in filesystem and redirect them to a file.
 Written by : Shashi Kiran
 Contact : 
 ************************************************************************************
